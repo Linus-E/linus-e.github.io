@@ -1,0 +1,80 @@
+﻿
+
+body {
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+	  font-family: 'Titillium Web', sans-serif;
+	margin-top: 50px;
+}
+
+
+.container {
+	max-width: 38rem;
+	padding-left:  1rem;
+	padding-right: 1rem;
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+
+H1 {
+	font-family: 'Raleway', sans-serif;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted blue;
+}
+
+H2 {
+	font-family: 'Raleway', sans-serif;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted blue;
+}
+
+
+.typed {
+	font-family: 'Roboto Slab', serif;
+}
+
+.normal {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+DL {
+
+}
+
+DD {
+	margin-bottom: 20px;
+}
+
+DT {
+
+}
+
+LI {
+		margin-bottom: 20px;
+}
+
+LI.compressed {
+		margin-bottom: 0px;
+}
+
+
+A.home {
+  text-decoration: none;
+  color: #CCCCCC;
+}
+
+A.home:hover {
+  text-decoration: underline;
+}
+
+HR {
+		border-bottom: 1px dotted blue;
+		border-top: none;
+		border-left: none;
+		border-right: none;
+}
