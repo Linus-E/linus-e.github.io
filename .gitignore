@@ -4,6 +4,7 @@ Thumbs.db
 ehthumbs.db
 
 _build-linus.bat
+_bits/
 
 # Folder config file
 Desktop.ini
