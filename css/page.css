@@ -78,7 +78,7 @@ A.headerlink {
   border-bottom: 1px dotted #bbbbbb;
 }
 
-A.headerlink:hover {
+A.headerlink:hover { 
   text-decoration: none;
   border-bottom: 1px dotted #666666;
 }
