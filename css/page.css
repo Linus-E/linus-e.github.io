@@ -72,6 +72,19 @@ A.home:hover {
   text-decoration: underline;
 }
 
+A.headerlink {
+  color: #000000;
+  text-decoration: none;
+  border-bottom: 1px dotted #bbbbbb;
+}
+
+A.headerlink:hover {
+  text-decoration: none;
+  border-bottom: 1px dotted #666666;
+}
+    
+
+
 HR {
 		border-bottom: 1px dotted blue;
 		border-top: none;
