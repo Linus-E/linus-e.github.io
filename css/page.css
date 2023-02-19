@@ -75,7 +75,7 @@ A.home:hover {
 A.headerlink {
   color: #000000;
   text-decoration: none;
-  border-bottom: 1px dotted #bbbbbb;
+  border-bottom: 1px dotted #666666;
 }
 
 A.headerlink:hover { 
